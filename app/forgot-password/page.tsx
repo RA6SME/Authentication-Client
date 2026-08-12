@@ -89,7 +89,7 @@ export default function ForgotPasswordPage() {
       </div>
 
       <div className="hidden lg:block lg:w-1/2 relative rounded-3xl overflow-hidden min-h-[90vh]">
-        <Image src="/hero.jpg" alt="Artwork" fill priority className="object-cover" />
+        <Image src="/hero.png" alt="Artwork" fill priority className="object-cover" />
       </div>
     </div>
   );

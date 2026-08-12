@@ -100,7 +100,7 @@ export default function RegisterPage() {
 
       <div className="hidden lg:block lg:w-1/2 relative rounded-3xl overflow-hidden min-h-[90vh]">
         <Image
-          src="/hero.jpg"
+          src="/hero.png"
           alt="Artwork"
           fill
           priority
